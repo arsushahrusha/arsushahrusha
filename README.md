@@ -1,63 +1,67 @@
-# 👋 Привет, я Арсений Троян
+# 👋 Привет, я Троян Арсений
 
-## 🚀 AI / Backend / Android Developer
-
-🎓 Студент НИУ ВШЭ (Информатика и вычислительная техника, выпуск 2028)
-💡 Увлекаюсь разработкой AI-сервисов, backend-систем и Android-приложений
-
-📫 **Email:** [arstroyan@gmail.com](mailto:arstroyan@gmail.com)
-💬 **Telegram:** @arsushahrusha
-🔗 **GitHub:** [https://github.com/arsushahrusha](https://github.com/arsushahrusha)
+### 🚀 AI / Backend / Android Developer
 
 ---
 
 ## 🧠 О себе
 
-Разрабатываю fullstack-приложения с упором на backend (Python/FastAPI) и AI-интеграции.
-Есть опыт создания RAG-систем, обработки видео и разработки Android-приложений на Kotlin.
+💡 Студент НИУ ВШЭ (Информатика и вычислительная техника)
+
+⚙️ Разрабатываю AI-сервисы, backend-системы и Android-приложения
+
+🔥 Интересы: RAG, ML-интеграции, высоконагруженные API
 
 ---
 
 ## 🛠️ Технологии
 
-**Backend & AI:**
-Python, FastAPI, REST API, FAISS, Sentence-transformers
+### ⚡ Backend & AI
 
-**Mobile:**
-Kotlin, Jetpack Compose, Retrofit, Coroutines
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![REST API](https://img.shields.io/badge/API-REST-green)
+![FAISS](https://img.shields.io/badge/FAISS-vector--search-orange)
 
-**Frontend:**
-JavaScript, HTML, CSS
+### 📱 Mobile
 
-**DevOps & Tools:**
-Docker, Docker Compose, Git, GitHub
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=android)
 
-**Other:**
-PostgreSQL, JSON, XML, C++, Qt
+### 🌐 Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
+### ⚙️ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
 
 ## 💼 Проекты
 
-### 🎥 Blur Faces (Face Blur Web App)
+### 🎥 Blur Faces
 
 🔗 [https://github.com/arsushahrusha/Blur-Faces](https://github.com/arsushahrusha/Blur-Faces)
 
-**Стек:** Python, FastAPI, OpenCV, FFmpeg, JavaScript, Docker
+> Web-приложение для автоматического блюра лиц на видео
 
-* Разработал REST API для обработки видео
-* Реализовал асинхронную обработку (background tasks)
-* Добавил ручную корректировку масок лиц через Canvas
+* FastAPI backend с асинхронной обработкой
+* Детекция и обработка через OpenCV + FFmpeg
+* Ручная корректировка масок (Canvas)
 
 ---
 
-### 🌍 AI Translator (RAG система)
+### 🌍 AI Translator (RAG)
 
-**Стек:** Python, FastAPI, FAISS, Sentence-transformers
+> Система перевода и поиска по документации
 
-* Реализовал RAG pipeline (векторный + гибридный поиск)
-* Разработал web-интерфейс
-* Настроил обработку и поиск по технической документации
+* Гибридный поиск (векторный + лексический)
+* Sentence-transformers + FAISS
+* Web-интерфейс для взаимодействия
 
 ---
 
@@ -65,51 +69,52 @@ PostgreSQL, JSON, XML, C++, Qt
 
 🔗 [https://github.com/arsushahrusha/YaDiskPics](https://github.com/arsushahrusha/YaDiskPics)
 
-**Стек:** Python, Requests, REST API
-
-* Разработал клиент для интеграции API
-* Реализовал загрузку изображений с метаданными
+* Интеграция REST API
+* Сохранение метаданных (JSON)
+* Автоматическая загрузка изображений
 
 ---
 
-### 📱 HandHopHop (Android приложение)
+### 📱 HandHopHop
 
 🔗 [https://github.com/sakurelle/HandHopHop](https://github.com/sakurelle/HandHopHop)
 
-**Стек:** Kotlin, Jetpack Compose, Retrofit, Coil
-
-* Разработал адаптивный UI на Jetpack Compose
-* Настроил сетевой слой и обработку состояний
-* Реализовал загрузку изображений
+* UI на Jetpack Compose
+* Retrofit + Coroutines
+* Загрузка изображений (Coil)
 
 ---
 
-## 📚 Образование
+## 📊 GitHub Статистика
 
-**НИУ ВШЭ**
-Информатика и вычислительная техника
-2024 — 2028
-
----
-
-## 🌍 Языки
-
-* 🇷🇺 Русский — родной
-* 🇬🇧 Английский — B2
-
----
-
-## 📊 GitHub Stats
+<div align="center">
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=arsushahrusha)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsushahrusha\&layout=compact)
 
-## ⚡ Дополнительно
-
-* Прохожу курсы по Python (Нетология)
-* Обучаюсь Android-разработке (VK Education)
+</div>
 
 ---
 
-⭐ Открыт к стажировкам и интересным проектам
+## 📫 Контакты
+
+* 📧 Email: [arstroyan@gmail.com](mailto:arstroyan@gmail.com)
+* 💬 Telegram: @arsushahrusha
+* 🔗 GitHub: [https://github.com/arsushahrusha](https://github.com/arsushahrusha)
+
+---
+
+## ⚡ Сейчас
+
+* 📚 Изучаю Android (VK Education)
+* 🐍 Углубляю Python (Нетология)
+* 🚀 Открыт к стажировкам и проектам
+
+---
+
+<div align="center">
+
+✨ *Always building, always learning*
+
+</div>
