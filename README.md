@@ -101,7 +101,7 @@ PostgreSQL, JSON, XML, C++, Qt
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsushahrusha\&show_icons=true)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=arsushahrusha)
 
 ---
 
