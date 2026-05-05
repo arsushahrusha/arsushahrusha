@@ -55,6 +55,20 @@
 
 ---
 
+### ❤️ VKinder
+
+🔗 [https://github.com/arsushahrusha/VKinder](https://github.com/arsushahrusha/VKinder)
+
+> VK-бот для поиска кандидатов для знакомств
+
+* VK API: поиск пользователей, фото и сообщения
+* PostgreSQL + SQLAlchemy для хранения кандидатов, избранного и blacklist
+* Use Cases + Repository Pattern для разделения бизнес-логики
+* Диалоговый сценарий с кнопками и состояниями пользователя
+
+---
+
+
 ### 🌍 AI Translator (RAG)
 
 > Система перевода и поиска по документации
