@@ -21,23 +21,32 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![REST API](https://img.shields.io/badge/API-REST-green)
+![Requests](https://img.shields.io/badge/Requests-HTTP-blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
 ![FAISS](https://img.shields.io/badge/FAISS-vector--search-orange)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
 
 ### 📱 Mobile
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=android&logoColor=white)
 
 ### 🌐 Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
