@@ -1,6 +1,6 @@
 # 👋 Привет, я Троян Арсений
 
-### 🚀 AI / Backend / Android Developer
+### 🚀 Android Developer / AI / Backend
 
 ---
 
@@ -8,9 +8,7 @@
 
 💡 Студент НИУ ВШЭ (Информатика и вычислительная техника)
 
-⚙️ Разрабатываю AI-сервисы, backend-системы и Android-приложения
-
-🔥 Интересы: RAG, ML-интеграции, высоконагруженные API
+⚙️ Разрабатываю Android-приложения, backend-системы 
 
 ---
 
@@ -51,6 +49,16 @@
 ---
 
 ## 💼 Проекты
+
+### 📱 HandHopHop
+
+🔗 [https://github.com/sakurelle/HandHopHop](https://github.com/sakurelle/HandHopHop)
+
+* UI на Jetpack Compose
+* Retrofit + Coroutines
+* Загрузка изображений (Coil)
+
+---
 
 ### 🎥 Blur Faces
 
@@ -95,16 +103,6 @@
 * Интеграция REST API
 * Сохранение метаданных (JSON)
 * Автоматическая загрузка изображений
-
----
-
-### 📱 HandHopHop
-
-🔗 [https://github.com/sakurelle/HandHopHop](https://github.com/sakurelle/HandHopHop)
-
-* UI на Jetpack Compose
-* Retrofit + Coroutines
-* Загрузка изображений (Coil)
 
 ---
 
