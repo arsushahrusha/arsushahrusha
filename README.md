@@ -16,9 +16,11 @@
 
 ### ⚡ Backend & AI
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![REST API](https://img.shields.io/badge/API-REST-green)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
 ![FAISS](https://img.shields.io/badge/FAISS-vector--search-orange)
@@ -32,6 +34,8 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-REST_API-48B983)
+![DataStore](https://img.shields.io/badge/DataStore-Android-3DDC84?logo=android&logoColor=white)
 
 ### 🌐 Frontend
 
@@ -57,6 +61,21 @@
 * UI на Jetpack Compose
 * Retrofit + Coroutines
 * Загрузка изображений (Coil)
+
+---
+
+### 💈 Barber Shop
+
+🔗 [Backend](https://github.com/arsushahrusha/Blur-Faces) и [Frontent](https://github.com/arsushahrusha/Blur-Faces)
+
+> Клиент-серверное Android-приложение для управления заказами барбершопа
+
+* Android-клиент на Kotlin + Jetpack Compose: авторизация, создание и просмотр заказов
+* REST API на Go с JWT-аутентификацией, сессиями и слоистой архитектурой Repository / UseCase
+* Асинхронная обработка заказов через RabbitMQ и worker pool
+* PostgreSQL для хранения пользователей, сессий и заказов; Retrofit + DataStore на клиенте
+
+**Стек:** Kotlin, Jetpack Compose, Retrofit, DataStore, Go, PostgreSQL, RabbitMQ, JWT, Docker
 
 ---
 
