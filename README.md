@@ -74,7 +74,7 @@
 
 ### ❤️ VKinder
 
-🔗 [https://github.com/arsushahrusha/VKinder](https://github.com/arsushahrusha/VKinder)
+🔗 [https://github.com/iDoxie228/VKinder](https://github.com/iDoxie228/VKinder)  
 
 > VK-бот для поиска кандидатов для знакомств
 
