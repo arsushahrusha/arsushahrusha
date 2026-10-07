@@ -145,14 +145,6 @@
 
 ---
 
-## ⚡ Сейчас
-
-* 📚 Изучаю Android (VK Education)
-* 🐍 Углубляю Python (Нетология)
-* 🚀 Открыт к стажировкам и проектам
-
----
-
 <div align="center">
 
 ✨ *Always building, always learning*
